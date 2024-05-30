@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Jonathan</h1>
 <h3 align="center">Mobile Developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanjonathan67" alt="juanjonathan67" /></a> </p>
-
 - 🌱 I’m currently learning **Android Development, Flutter, and Artificial Intelligence**
 
 - 📫 How to reach me **juanjonathan67@gmail.com**
